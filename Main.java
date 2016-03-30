@@ -1,21 +1,13 @@
 /*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
+ * CIS 36B: Java Programming II - Lab 6
+ * Questions 21 - 25: Exception handling code snippets from text with explanations
+ * @author 'Jenny Hamer'
  */
-package pkg36b_lab5;
+package pkg36b_lab6;
 
-/**
- *
- * @author user
- */
 public class Main {
 
-    /**
-     * @param args the command line arguments
-     */
     public static void main(String[] args) {
         // TODO code application logic here
-    }
-    
+    }  
 }
